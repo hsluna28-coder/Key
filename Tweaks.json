@@ -1,38 +1,9 @@
 [
   {
-    "key": "ABCDE12345FGHIJK6789LMNO",
+    "key": "1234",
+    "hwid": null,
     "used": null,
     "expire": null,
     "day": 30
-  },
-  {
-    "key": "XYZ98765VWXYZ4321ABCD678",
-    "used": "2026-06-06 12:00:00",
-    "expire": "2026-07-06 12:00:00",
-    "day": 30
-  },
-  {
-    "key": "4dU4iU8r4TRURYzF7Ruiwygt",
-    "used": "2026-08-12 08:02:18",
-    "expire": "2026-08-13 08:02:18",
-    "day": 1
-  },
-  {
-    "key": "WPBawRta4R7Yz4xLEw6Cfx48",
-    "used": "2027-08-12 08:11:59",
-    "expire": "2028-08-12 08:11:59",
-    "day": 1
-  },
-  {
-    "key": "dRpbBPudXcCHEuzBYJXm9MDU",
-    "used": "2026-01-01 00:00:00",
-    "expire": "2026-01-02 00:00:00",
-    "day": 1
-  },
-  {
-    "key": "XJ68pNuZd4zDDvnTPRZ6FTeb",
-    "used": "2026-08-05 08:19:58",
-    "expire": "2026-08-06 08:19:58",
-    "day": 1
   }
 ]
