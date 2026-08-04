@@ -1,8 +1,8 @@
 [
   {
     "key": "ABCDE12345FGHIJK6789LMNO",
-    "used": "2026-08-12 08:07:59",
-    "expire": "2026-09-11 08:07:59",
+    "used": null,
+    "expire": null,
     "day": 30
   },
   {
@@ -15,6 +15,12 @@
     "key": "4dU4iU8r4TRURYzF7Ruiwygt",
     "used": "2026-08-12 08:02:18",
     "expire": "2026-08-13 08:02:18",
+    "day": 1
+  },
+  {
+    "key": "PMbGzDej2LbLt6nfMSAjJvVq",
+    "used": null,
+    "expire": null,
     "day": 1
   }
 ]
