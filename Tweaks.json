@@ -1,1 +1,14 @@
-
+[
+  {
+    "key": "ABCDE12345FGHIJK6789LMNO",
+    "used": null,
+    "expire": null,
+    "day": 30
+  },
+  {
+    "key": "XYZ98765VWXYZ4321ABCD678",
+    "used": "2026-06-06 12:00:00",
+    "expire": "2026-07-06 12:00:00",
+    "day": 30
+  }
+]
