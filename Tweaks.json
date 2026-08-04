@@ -1,9 +1,10 @@
 [
   {
     "key": "ABCDE12345FGHIJK6789LMNO",
-    "used": null,
-    "expire": null,
-    "day": 30
+    "used": "2026-08-05 08:22:22",
+    "expire": "2026-09-04 08:22:22",
+    "day": 30,
+    "hwid": "DESKTOP-B7ROM3T"
   },
   {
     "key": "XYZ98765VWXYZ4321ABCD678",
