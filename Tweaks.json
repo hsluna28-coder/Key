@@ -25,8 +25,8 @@
   },
   {
     "key": "dRpbBPudXcCHEuzBYJXm9MDU",
-    "used": null,
-    "expire": null,
+    "used": "2026-01-01 00:00:00",
+    "expire": "2026-01-02 00:00:00",
     "day": 1
   }
 ]
